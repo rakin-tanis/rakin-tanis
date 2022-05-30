@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-![](https://img.shields.io/badge/<lang>-<JAVA>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/lang-JAVA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 Programming Java, Typescript, Angular Material, JavaScript, CSS, Bootstrap, Dart
