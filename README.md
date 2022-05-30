@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**rakin-tanis/rakin-tanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm **R. Akin Tanis**. I have solid background on core object oriented design principles and software development experience to create reliable appli-
+cation for several years. I have hands-on experience in frameworks including Spring, Hibernate, Javascript, Angular, TypeScript,
+Flutter, Android. I remain passionate about my job and new technologies in general. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning React and nodejs
@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+✨ _special_ ✨ .
 
-
-![](https://img.shields.io/badge/lang-JAVA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/lang-java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/lang-Typescript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/lang-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/lang-Dart-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
