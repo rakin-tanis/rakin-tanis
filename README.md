@@ -12,7 +12,11 @@ Flutter, Android. I remain passionate about my job and new technologies in gener
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ✨ _special_ ✨ .
+- Originally from Turkey :tr:, now based in Amsterdam :netherlands:.
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rakin-tanis&count_private=true&show_icons=true)
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakin-tanis)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://img.shields.io/badge/lang-java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/lang-Typescript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
